@@ -1,0 +1,15 @@
+---
+title: "AnalyteR 0.1.0: Reference intervals for laboratory data"
+author: "Rodrigo Citton P. dos Reis, Guilherme R. Mansur Barbosa"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{AnalyteR 0.1.0: Reference intervals for laboratory data}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+## Introduction
+
+## Main functions
+
+## Examples

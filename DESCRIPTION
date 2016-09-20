@@ -1,0 +1,17 @@
+Package: AnalyteR
+Type: Package
+Date: 2016-09-19
+Title: Estimation of analytes reference intervals
+Version: 0.1.0
+Authors@R: as.person(c(
+    "Rodrigo Citton P. dos Reis <rodrigocpdosreis@gmail.com> [aut, cre]",
+    "Guilherme R. Mansur Barbosa <grmansur11@gmail.com> [aut]"
+  ))
+Description: Produces estimation of reference intervals for an analyte of interest.
+    This version covers the methods described at CLSI (...).
+License: MIT + file LICENSE
+LazyData: true
+RoxygenNote: 5.0.1
+Imports: boot
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
