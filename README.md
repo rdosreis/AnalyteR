@@ -1,7 +1,7 @@
 # AnalyteR
 An R package for estimation of analytes reference intervals.
 
-## Instalation
+## Installation
 
 Install `AnalyteR` from github with `devtools`:
 
